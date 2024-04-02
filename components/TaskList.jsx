@@ -3,7 +3,7 @@ import DeleteIcon from '@mui/icons-material/Delete';
 import Card from '@mui/material/Card';
 import CardHeader from '@mui/material/CardHeader';
 import CardContent from '@mui/material/CardContent';
-import './list.css'
+import '../styles/list.css'
 
 import Box from '@mui/material/Box';
 import List from '@mui/material/List';
