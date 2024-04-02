@@ -17,6 +17,7 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 Once the dependencies are installed, you can start the development server and view the application in your browser.
 
 1. To start the development server, run: npm run dev
+   
    <img width="329" alt="Screenshot 2024-04-02 at 6 30 26 PM" src="https://github.com/Anupmqr/To-Do_App/assets/122713481/a62bae9f-d05f-4426-9f0a-03ffc16cf78f">
 3. Copy url and open your web browser and go to url(eg. http://localhost:5175/)) to view the application.
    <img width="716" alt="Screenshot 2024-04-02 at 6 31 59 PM" src="https://github.com/Anupmqr/To-Do_App/assets/122713481/22714f62-1e9c-4b9e-ae38-f8c61742c009">
