@@ -9,7 +9,7 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 ### Installation
 
 1. Clone the repository to your local machine using the following command: git clone https://github.com/Anupmqr/To-Do_App.git
-2. Navigate into the project directory: cd toDoApplication
+2. Navigate into the project directory: cd To-Do_App
 3. Install the dependencies by running: npm install
 
 ### Running the Application
