@@ -3,7 +3,6 @@ import { v4 as uuidv4 } from 'uuid';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import TaskList from "./TaskList"
-import '../styles/input.css'
 
 export default function TaskInput() {
     // State to store the list of tasks

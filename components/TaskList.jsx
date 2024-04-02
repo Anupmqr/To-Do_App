@@ -54,7 +54,7 @@ export default function Todolist({ todos, setTodos }) {
     let styles = { textDecoration: "line-through" };
     return (
         <>
-            <Card sx={{ maxWidth: 400 }}>
+            <Card sx={{ maxWidth: 400 }} style={{margin:"0 auto"}}>
                 <Box sx={{ flexGrow: 1 }}>
                     <AppBar position="static" style={{backgroundColor:"black"}}>
                         <Toolbar style={{ display: 'flex', justifyContent: 'center' }}>
